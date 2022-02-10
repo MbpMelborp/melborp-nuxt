@@ -1,0 +1,83 @@
+{
+  "DelayHydration": {
+    "description": "Auto imported from node_modules/nuxt-delay-hydration/dist/components/DelayHydration.js"
+  },
+  "HydrationStatus": {
+    "description": "Auto imported from node_modules/nuxt-delay-hydration/dist/components/HydrationStatus.js"
+  },
+  "Contacto": {
+    "description": "Auto imported from components/Contacto.vue"
+  },
+  "CursorMouse": {
+    "description": "Auto imported from components/CursorMouse.vue"
+  },
+  "HomeBkg": {
+    "description": "Auto imported from components/HomeBkg.vue"
+  },
+  "HomeBkgAnim": {
+    "description": "Auto imported from components/HomeBkgAnim.vue"
+  },
+  "HomeBkgImage": {
+    "description": "Auto imported from components/HomeBkgImage.vue"
+  },
+  "HomeBkgMarquee": {
+    "description": "Auto imported from components/HomeBkgMarquee.vue"
+  },
+  "HomeTop": {
+    "description": "Auto imported from components/HomeTop.vue"
+  },
+  "HomeTopOld": {
+    "description": "Auto imported from components/HomeTop_old.vue"
+  },
+  "HomeTopOld2": {
+    "description": "Auto imported from components/HomeTop_old_2.vue"
+  },
+  "Nav": {
+    "description": "Auto imported from components/Nav.vue"
+  },
+  "Preload": {
+    "description": "Auto imported from components/Preload.vue"
+  },
+  "PreloadImages": {
+    "description": "Auto imported from components/PreloadImages.vue"
+  },
+  "PreloadInterior": {
+    "description": "Auto imported from components/PreloadInterior.vue"
+  },
+  "Proyecto": {
+    "description": "Auto imported from components/Proyecto.vue"
+  },
+  "BoxComponent": {
+    "description": "Auto imported from components/box-component.vue"
+  },
+  "TeamBroken": {
+    "description": "Auto imported from components/team/Team_broken.vue"
+  },
+  "ProyectosMedia": {
+    "description": "Auto imported from components/proyectos/Media.vue"
+  },
+  "ProyectosMediaBroken": {
+    "description": "Auto imported from components/proyectos/Media_broken.vue"
+  },
+  "ProyectosMediaCarrusel": {
+    "description": "Auto imported from components/proyectos/Media_carrusel.vue"
+  },
+  "ProyectosMediaDerecha": {
+    "description": "Auto imported from components/proyectos/Media_derecha.vue"
+  },
+  "ProyectosMediaFull": {
+    "description": "Auto imported from components/proyectos/Media_full.vue"
+  },
+  "ProyectosMediaSobrepuestas": {
+    "description": "Auto imported from components/proyectos/Media_sobrepuestas.vue"
+  },
+  "ProyectosMediaVideo": {
+    "description": "Auto imported from components/proyectos/Media_video.vue"
+  },
+  "ProyectosProyectoItem": {
+    "description": "Auto imported from components/proyectos/ProyectoItem.vue"
+  },
+  "ProyectosTipo": {
+    "description": "Auto imported from components/proyectos/Tipo.vue"
+  }
+}
