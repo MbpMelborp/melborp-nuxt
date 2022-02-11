@@ -2,82 +2,94 @@
   {
     "name": "icons-list",
     "path": "/_icons",
-    "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/node_modules/@nuxtjs/svg-sprite/lib/pages/icons-list.vue"
+    "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/node_modules/@nuxtjs/svg-sprite/lib/pages/icons-list.vue",
+    "_name": "_458b7075"
   },
   {
     "name": "contacto",
     "path": "/contacto",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/contacto.vue",
     "chunkName": "pages/contacto",
-    "url": "/contacto"
+    "url": "/contacto",
+    "_name": "_5fc8b2b0"
   },
   {
     "name": "horizontal-scroll",
     "path": "/horizontal-scroll",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/horizontal-scroll.vue",
     "chunkName": "pages/horizontal-scroll",
-    "url": "/horizontal-scroll"
+    "url": "/horizontal-scroll",
+    "_name": "_b9c661f6"
   },
   {
     "name": "image-loads",
     "path": "/image-loads",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/image-loads.vue",
     "chunkName": "pages/image-loads",
-    "url": "/image-loads"
+    "url": "/image-loads",
+    "_name": "_2fda3aec"
   },
   {
     "name": "normal",
     "path": "/normal",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/normal.vue",
     "chunkName": "pages/normal",
-    "url": "/normal"
+    "url": "/normal",
+    "_name": "_78a34188"
   },
   {
     "name": "on-call",
     "path": "/on-call",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/on-call.vue",
     "chunkName": "pages/on-call",
-    "url": "/on-call"
+    "url": "/on-call",
+    "_name": "_3a6b81bb"
   },
   {
     "name": "politica-de-privacidad",
     "path": "/politica-de-privacidad",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/politica-de-privacidad.vue",
     "chunkName": "pages/politica-de-privacidad",
-    "url": "/politica-de-privacidad"
+    "url": "/politica-de-privacidad",
+    "_name": "_f6d86104"
   },
   {
     "name": "scroll-trigger",
     "path": "/scroll-trigger",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/scroll-trigger.vue",
     "chunkName": "pages/scroll-trigger",
-    "url": "/scroll-trigger"
+    "url": "/scroll-trigger",
+    "_name": "_6a0ac44e"
   },
   {
     "name": "team",
     "path": "/team",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/team.vue",
     "chunkName": "pages/team",
-    "url": "/team"
+    "url": "/team",
+    "_name": "_7c72ea3e"
   },
   {
     "name": "work",
     "path": "/work",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/work/index.vue",
     "chunkName": "pages/work/index",
-    "url": "/work"
+    "url": "/work",
+    "_name": "_f7370416"
   },
   {
     "name": "work-id",
     "path": "/work/:id",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/work/_id.vue",
-    "chunkName": "pages/work/_id"
+    "chunkName": "pages/work/_id",
+    "_name": "_6373799d"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/juanosoriocano/Documents/MEBORP/DEV/MELBORP/nuxt-gsap-locomotive/pages/index.vue",
     "chunkName": "pages/index",
-    "url": "/"
+    "url": "/",
+    "_name": "_223ba07e"
   }
 ]

@@ -2,7 +2,7 @@
 export default {
   // mode: 'spa',
   server: {
-    host: "0.0.0.0",
-    port: process.env.PORT || 8080,
+    host: '0.0.0.0',
+    port: 80,
   },
-};
+}

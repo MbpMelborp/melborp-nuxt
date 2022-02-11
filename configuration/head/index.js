@@ -4,7 +4,6 @@
 // url dev https://development.d1lqtgc1tjoxsq.amplifyapp.com/
 export default {
   head: {
-    title: 'MELBORP - Business Updaters',
     htmlAttrs: { lang: 'es' },
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
@@ -23,18 +22,19 @@ export default {
           ? 'production'
           : 'development debug-screens',
     },
-    meta: [
+    title: 'MELBORP - Business Updaters | cargando ...',
+    /* meta: [
       {
         hid: 'description',
         name: 'description',
         content:
-          'Somos un Bussines Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
+          'Somos un business Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
       },
       {
         hid: 'abstract',
         name: 'abstract',
         content:
-          'Somos un Bussines Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
+          'Somos un business Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
       },
       {
         hid: 'keywords',
@@ -64,7 +64,7 @@ export default {
       {
         property: 'og:description',
         content:
-          'Somos un Bussines Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
+          'Somos un business Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
       },
       {
         property: 'og:image',
@@ -94,7 +94,7 @@ export default {
       {
         name: 'twitter:description',
         content:
-          'Somos un Bussines Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
+          'Somos un business Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
       },
       { property: 'og:country_name', content: 'Colombia' },
       { property: 'og:email', content: 'info@melborp.co' },
@@ -103,9 +103,9 @@ export default {
       {
         name: 'dcterms.description',
         content:
-          'Somos un Bussines Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
+          'Somos un business Updaters y nuestro objetivo es usar la creatividad para transformar negocios que puedan cambiar el mundo.',
       },
       { name: 'dcterms.identifier', content: 'https://melborp.art/' },
-    ],
+    ], */
   },
 }
